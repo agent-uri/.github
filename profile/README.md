@@ -51,10 +51,10 @@ agent-uri/
 
 ## Documentation
 
-- [Architecture Overview](docs/architecture.md)
-- [API Reference](docs/api-reference.md)
-- [Usage Examples](docs/examples.md)
-- [Protocol Specification](docs/rfc/draft-narvaneni-agent-uri-00.md)
+- [Architecture Overview](https://github.com/agent-uri/agent-uri/tree/main/docs/architecture.md)
+- [API Reference](https://github.com/agent-uri/agent-uri/tree/main/docs/api-reference.md)
+- [Usage Examples](https://github.com/agent-uri/agent-uri/tree/main/docs/examples.md)
+- [Protocol Specification](https://github.com/agent-uri/agent-uri/tree/main/docs/rfc/draft-narvaneni-agent-uri-01.md)
 
 ## License
 
