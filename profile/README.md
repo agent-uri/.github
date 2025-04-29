@@ -1,6 +1,6 @@
 # Agent URI Reference Implementation
 
-This Org and repositories contains implementations and SDKs of the `agent://` protocol as defined in the [protocol specification](github.com/agent-uri/agent-uri/tree/main/docs/rfc/draft-narvaneni-agent-uri-01.md).
+This Org and repositories contains implementations and SDKs of the `agent://` protocol as defined in the [protocol specification](https://github.com/agent-uri/agent-uri/tree/main/docs/rfc/draft-narvaneni-agent-uri-01.md).
 
 ## Overview
 
